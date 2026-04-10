@@ -2,14 +2,14 @@ project:
   type: book
 
 book:
-  title: "Aarhus Diabetes Demography Symposium and Meeting 2025"
+  title: "DP-Next meeting 2026"
   author:
     - Daniel Witte
-    - Tinne Laurberg
-    - Henrik Støvring
+    - .......
+    - .......
   date: last-modified
-  repo-url: https://github.com/steno-aarhus/diabetes-demography-seminar
-  site-url: https://steno-aarhus.github.io/diabetes-demography-seminar
+  repo-url: https://github.com/dp-next/dp-next-meeting-2026
+  site-url: https://dp-next.github.io/dp-next-meeting-2026
   chapters:
     - index.qmd
     - part: "Speaker Profiles"
