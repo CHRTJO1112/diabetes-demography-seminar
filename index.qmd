@@ -4,6 +4,8 @@ description: "A one-day meeting for all researchers involved in DP-Next, hosted 
 date: 2026-09-24
 ---
 
+# Welcome!
+
 <!-- TODO: unhide when registration opens -->
 
 :::: content-hidden
