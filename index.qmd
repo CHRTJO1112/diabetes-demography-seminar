@@ -42,6 +42,7 @@ Verdensrummet AUD. A20
 Palle Juul Jensens Boulevard 99
 
 8200 Aarhus, Denmark
+![Steno Diabetes Center Aarhus. Image from Facebook](images/Steno Diabetes Center Aarhus.png){#fig-auditoriums width="657"}
 :::
 
 ::: {.callout-note icon="false"}
